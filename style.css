@@ -1,0 +1,42 @@
+ #box {
+    box-sizing:border-box;
+    height: 800px;
+ }
+
+ .title {
+    text-align: center;
+    box-sizing:border-box;
+    width:750px;
+    background-color:blue;
+    padding:20px;
+    border:2px solid red ;
+}
+
+div {
+    text-align: center;
+    color:green;
+    font-family:"Time New Roman", serif;
+    font-size: 32px;
+    font-weight:700;
+    box-sizing:border-box;
+    height:100px;
+    width:400px;
+    background-color:aqua;
+    padding:30px 20px 20px 40px;
+    border:2px solid yellow;
+    margin:20px;
+    display: inline-block;
+}
+
+.intro {
+    font-size: 22px;
+    background-color:aqua;
+    border:2px dotted green;
+    padding-top:10px;
+    padding-left:0px;
+}
+
+#lasagna {
+    color:orange;
+}       
+
